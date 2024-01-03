@@ -48,6 +48,12 @@ The finalized model for stock price prediction yielded the following results bas
 
 The observed RMSE values indicate that the Linear Regression model performed slightly better in this specific scenario compared to the Random Forest Regressor. However, it's essential to note that the efficacy of a model can vary based on multiple factors, including the dataset, features, and the problem's complexity. Further iterations and feature engineering could potentially enhance the performance of both models.
 
+Random Forest model result
+![Random Forest model result](rf.png)
+
+Logistic Regression model result
+![Logistic Regression model result](lr.png)
+
 ## Conclusion
 
 This project underscores the capabilities of machine learning in predicting stock prices based on historical data patterns. The insights derived from this analysis may serve as a valuable resource for investors seeking data-driven perspectives on market trends.
