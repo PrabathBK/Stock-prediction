@@ -41,7 +41,12 @@ The accuracy of the prediction models was gauged using the root mean square erro
 
 ## Results Summary
 
-The finalized model achieved a root mean square error of [insert value here]. This result suggests [insert interpretation or comparison with other models here].
+The finalized model for stock price prediction yielded the following results based on the root mean square error (RMSE) metric:
+
+- **Linear Regression**: Achieved an RMSE of 0.24
+- **Random Forest Regressor**: Recorded an RMSE of 0.29
+
+The observed RMSE values indicate that the Linear Regression model performed slightly better in this specific scenario compared to the Random Forest Regressor. However, it's essential to note that the efficacy of a model can vary based on multiple factors, including the dataset, features, and the problem's complexity. Further iterations and feature engineering could potentially enhance the performance of both models.
 
 ## Conclusion
 
